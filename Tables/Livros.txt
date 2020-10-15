@@ -1,0 +1,15 @@
+1	BIOINFORMATICA	2001	6	introducao a Bioinformatica	253	Artmed	0
+2	PROGRAMACAO	2002	4	C++: effective object-oriented software	874	Prentice Hall	1
+3	ECOLOGIA	2003	5	Economia da Natureza	450	Guanabara	1
+4	ESTATISTICA	2004	1	Bioestatística Teórica e Computacional	350	Guanabara	0
+5	BIOINFORMATICA	1999	4	Bioinformatics: the Machine Learning Approach	540	MIT Press	1
+6	PROGRAMACAO	2000	2	Thinking in C++	547	Prentice Hall	0	
+7	ECOLOGIA	2004	3	Vida a ciencia da biologia	745	Artmed	0
+8	ESTATISTICA	2007	7	Estatística Aplicada	234	Saraiva	0
+9	BIOINFORMATICA	2008	5	Introduction to Computational Molecular	451	PWS Publishing	0
+10	PROGRAMACAO	1985	3	Orientação a objetos em C++	475	Ciência Moderna	0
+11	ECOLOGIA	2001	1	fundamentos em ecologia	452	Artmed	0
+12	ESTATISTICA	2002	4	Estatística: 383 Problemas Resolvidos	350	Murray	1
+13	BIOINFORMATICA	2003	4	Machine Learning	457	McGraw Hill	0
+14	PROGRAMACAO	2003	5	Modelagem e projetos baseados em objetos	35	Campus	0
+15	ECOLOGIA	2006	1	Introduction EcologyII	784	Breker	0
